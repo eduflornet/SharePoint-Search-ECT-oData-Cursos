@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="f8c7134c-731d-4414-be8c-bfd0cea4b361" 
+        solutionId="f8c7134c-731d-4414-be8c-bfd0cea4b361" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SpCursosECT"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="0cd9aee9-b1e9-4682-966e-849266ed51a3" />
+  </features>
+</package>
